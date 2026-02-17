@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ENV/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Virtual Environment
+.Python
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+*.out
+*.err
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~*
+
+# Excel Temporary Files
+~$*
+*.xls.lock
+*.xlsx
+*.xls
+
+# Streamlit Cache
+.streamlit/
